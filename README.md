@@ -4,8 +4,8 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 <!--   Make a octocat at https://myoctocat.dev and insert the link and image to the anchor tag and image tag below -->
-   <a href="https://myoctocat.dev/@armandoparra13/octocat">
-  <img align="center" src="https://files.myoctocat.dev/production/users/armandoparra13/apps/octocat/octocat-preview.gif?0.1247608727894165" width=200 /> 
+   <a href="https://myoctocat.dev/@armandoparra13/github-readme">
+  <img align="center" src="https://user-images.githubusercontent.com/78700199/156632358-dbfef576-afb9-410b-b246-004c115630fe.png" width=200 /> 
 </a>
   <div id="badges">
     <a href="https://www.linkedin.com/in/armando-parra-1bb2b2209/">
