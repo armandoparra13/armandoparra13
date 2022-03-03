@@ -21,8 +21,8 @@
 ### 👋 👨‍💻 About Me :
 I am a second year student at Drexel University, studying computer science.
 
-- 🌱  I’m currently working at a nonproft called Sharing Excess!
-- 💬 Ask me about FC Barcelona.
+- 🌱  I’m currently working at a nonproft called Sharing Excess, helping fight food insecurity and food waste with technology!
+- 💬 Ask me about football(not american), video games, and programming.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can solve a rubik's cube in about a minute.
 
