@@ -5,7 +5,7 @@
   </h1>
 <!--   Make a octocat at https://myoctocat.dev and insert the link and image to the anchor tag and image tag below -->
    <a href="https://myoctocat.dev/@armandoparra13/github-readme">
-  <img align="center" src="https://user-images.githubusercontent.com/78700199/156632358-dbfef576-afb9-410b-b246-004c115630fe.png" width=200 /> 
+  <img align="center" src="https://user-images.githubusercontent.com/78700199/156632437-ac7b92ab-b361-4f74-b63b-8300ff97b854.png" width=200 /> 
 </a>
   <div id="badges">
     <a href="https://www.linkedin.com/in/armando-parra-1bb2b2209/">
